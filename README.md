@@ -21,8 +21,8 @@ understanding how things work all the way down—not just getting them to run.
 
 - ⌨️ **Keyboard-first tools** — [Fievel](https://github.com/MontyTheSoftwareEngineer/fievel)
   lets you leave the mouse behind: move, click, and scroll on Wayland with your keyboard.
-- 🐧 **Linux desktop projects** — custom Arch/Wayland workflows and tools that
-  make a desktop feel like your own.
+- 🐧 **I use Arch, btw.** I built my own custom Arch ISO from the ground up—
+  because apparently customizing the desktop wasn't enough.
 - 🧪 **Visual experiments** — interactive tools, little simulations, and
   projects that make complicated things easier to explore.
 - 🎥 **Programming tutorials** — I share Qt, C++, and QML tips and hands-on
@@ -41,6 +41,18 @@ understanding how things work all the way down—not just getting them to run.
 Leave the mouse behind: move, click, and scroll on Wayland using just your
 keyboard. Fievel is a Rust app shaped around a personal workflow, with
 configurable remapping and visual click hints.
+
+### More community favorites
+
+These Qt/QML and C++ projects each have more than five GitHub stars:
+
+| Project | Stack | Stars |
+| --- | --- | --- |
+| [Cool QML Button](https://github.com/MontyTheSoftwareEngineer/CoolQMLButton) | QML | ![Cool QML Button stars](https://img.shields.io/github/stars/MontyTheSoftwareEngineer/CoolQMLButton?style=flat-square&logo=github&label=stars) |
+| [Smart Thermostat Example](https://github.com/MontyTheSoftwareEngineer/SmartThermostatExample) | QML | ![Smart Thermostat Example stars](https://img.shields.io/github/stars/MontyTheSoftwareEngineer/SmartThermostatExample?style=flat-square&logo=github&label=stars) |
+| [StackView, Loader & Dynamic Objects](https://github.com/MontyTheSoftwareEngineer/StackView-Loader-DyamicObjects) | QML | ![StackView example stars](https://img.shields.io/github/stars/MontyTheSoftwareEngineer/StackView-Loader-DyamicObjects?style=flat-square&logo=github&label=stars) |
+| [Drink Dispenser Example](https://github.com/MontyTheSoftwareEngineer/DrinkDispenserExample) | QML | ![Drink Dispenser Example stars](https://img.shields.io/github/stars/MontyTheSoftwareEngineer/DrinkDispenserExample?style=flat-square&logo=github&label=stars) |
+| [Qt Firebase Authentication Example](https://github.com/MontyTheSoftwareEngineer/QtFirebaseAuthenticationExample) | C++ / Qt | ![Qt Firebase Authentication Example stars](https://img.shields.io/github/stars/MontyTheSoftwareEngineer/QtFirebaseAuthenticationExample?style=flat-square&logo=github&label=stars) |
 
 ### My toolbox
 
