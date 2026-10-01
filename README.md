@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Hai Pham — Qt/QML specialist" width="100%">
+  <img src="assets/profile-banner-qt-qml.svg" alt="Hai Pham — Qt/QML specialist" width="100%">
   <p><strong>Qt/QML specialist</strong></p>
   <p>
     <a href="https://www.youtube.com/@MontyTheSoftwareEngineer">
