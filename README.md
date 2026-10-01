@@ -20,7 +20,7 @@ understanding how things work all the way down—not just getting them to run.
 ### Things I build
 
 - ⌨️ **Keyboard-first tools** — [Fievel](https://github.com/MontyTheSoftwareEngineer/fievel)
-  turns a keyboard into a practical pointer for Linux and Wayland.
+  lets you leave the mouse behind: move, click, and scroll on Wayland with your keyboard.
 - 🐧 **Linux desktop projects** — custom Arch/Wayland workflows and tools that
   make a desktop feel like your own.
 - 🧪 **Visual experiments** — interactive tools, little simulations, and
@@ -38,9 +38,9 @@ understanding how things work all the way down—not just getting them to run.
   <img src="https://img.shields.io/github/stars/MontyTheSoftwareEngineer/fievel?style=for-the-badge&logo=github&label=stars&color=242938" alt="Fievel GitHub stars">
 </a>
 
-Fievel is a Rust app for controlling the pointer with the keyboard on Wayland.
-It grew from a personal workflow into a configurable tool with remapping and
-visual click hints.
+Leave the mouse behind: move, click, and scroll on Wayland using just your
+keyboard. Fievel is a Rust app shaped around a personal workflow, with
+configurable remapping and visual click hints.
 
 ### My toolbox
 
