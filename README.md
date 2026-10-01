@@ -3,7 +3,7 @@
   <p><strong>Software engineer · Linux tinkerer · curious builder</strong></p>
   <p>
     <a href="https://www.youtube.com/@MontyTheSoftwareEngineer">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCgvx7ZTeK_iN5hM-iqxevfA?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube%20subscribers&color=FF0000" alt="YouTube subscribers">
+      <img src="https://img.shields.io/badge/YouTube-~4K%20subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — approximately 4,000 subscribers">
     </a>
     <a href="https://www.linkedin.com/in/montythesoftwareengineer/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
@@ -26,7 +26,8 @@ understanding how things work all the way down—not just getting them to run.
 - 🧪 **Visual experiments** — interactive tools, little simulations, and
   projects that make complicated things easier to explore.
 - 🎥 **Programming tutorials** — I share Qt, C++, and QML tips and hands-on
-  examples on [YouTube](https://www.youtube.com/@MontyTheSoftwareEngineer).
+  examples with around 4K subscribers on
+  [YouTube](https://www.youtube.com/@MontyTheSoftwareEngineer).
 
 ### Featured project
 
