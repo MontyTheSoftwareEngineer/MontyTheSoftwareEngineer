@@ -21,8 +21,7 @@ understanding how things work all the way down—not just getting them to run.
 
 - ⌨️ **Keyboard-first tools** — [Fievel](https://github.com/MontyTheSoftwareEngineer/fievel)
   lets you leave the mouse behind: move, click, and scroll on Wayland with your keyboard.
-- 🐧 **I use Arch, btw.** I built my own custom Arch ISO from the ground up—
-  because apparently customizing the desktop wasn't enough.
+- 🐧 **I use Arch, btw.** I built my own custom Arch ISO from the ground up.
 - 🧪 **Visual experiments** — interactive tools, little simulations, and
   projects that make complicated things easier to explore.
 - 🎥 **Programming tutorials** — I share Qt, C++, and QML tips and hands-on
