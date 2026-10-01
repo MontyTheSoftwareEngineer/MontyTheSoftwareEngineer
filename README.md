@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Hai Pham — Qt/QML specialist and keyboard warrior" width="100%">
-  <p><strong>Qt/QML specialist · keyboard warrior</strong></p>
+  <img src="assets/profile-banner.svg" alt="Hai Pham — Qt/QML specialist" width="100%">
+  <p><strong>Qt/QML specialist</strong></p>
   <p>
     <a href="https://www.youtube.com/@MontyTheSoftwareEngineer">
       <img src="https://img.shields.io/badge/YouTube-~4K%20subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — approximately 4,000 subscribers">
