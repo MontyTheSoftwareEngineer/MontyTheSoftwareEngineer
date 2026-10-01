@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Hai Pham — thoughtful software for Linux and beyond" width="100%">
-  <p><strong>Software engineer · Linux tinkerer · curious builder</strong></p>
+  <img src="assets/profile-banner.svg" alt="Hai Pham — Qt/QML specialist and keyboard warrior" width="100%">
+  <p><strong>Qt/QML specialist · keyboard warrior</strong></p>
   <p>
     <a href="https://www.youtube.com/@MontyTheSoftwareEngineer">
       <img src="https://img.shields.io/badge/YouTube-~4K%20subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — approximately 4,000 subscribers">
@@ -13,8 +13,8 @@
 
 ## Hey, I'm Hai 👋
 
-I like building software that makes computers more useful, more personal, and a
-little more fun. I'm especially drawn to Linux, keyboard-first workflows, and
+I'm a Qt/QML specialist who loves building useful, thoughtful software. I enjoy
+making computers work for me, finding the right keyboard shortcut, and
 understanding how things work all the way down—not just getting them to run.
 
 ### Things I build
