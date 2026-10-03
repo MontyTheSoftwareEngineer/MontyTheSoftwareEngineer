@@ -2,6 +2,9 @@
   <img src="assets/profile-banner-qt-qml.svg" alt="Hai Pham — Qt/QML specialist" width="100%">
   <p><strong>Qt/QML specialist</strong></p>
   <p>
+    <a href="https://hifam.dev">
+      <img src="https://img.shields.io/badge/Website-hifam.dev-9df7b7?style=for-the-badge&logo=firefoxbrowser&logoColor=07100d" alt="Personal website: hifam.dev">
+    </a>
     <a href="https://www.youtube.com/@MontyTheSoftwareEngineer">
       <img src="https://img.shields.io/badge/YouTube-~4K%20subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — approximately 4,000 subscribers">
     </a>
@@ -65,6 +68,7 @@ These Qt/QML and C++ projects each have more than five GitHub stars:
 
 ### Find me around the web
 
+- 🌐 [hifam.dev](https://hifam.dev)
 - 🎬 [YouTube](https://www.youtube.com/@MontyTheSoftwareEngineer) — Qt, C++,
   and QML tutorials and project examples
 - 💼 [LinkedIn](https://www.linkedin.com/in/montythesoftwareengineer/)
